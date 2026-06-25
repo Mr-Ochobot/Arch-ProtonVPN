@@ -6,7 +6,7 @@ BLUE='\033[0;34m'
 WHITE='\033[0;37m'
 NC='\033[0m'
 
-echo -e "${BLUE}"
+echo -e "${RED}"
 cat << "EOF"
                   -`
                  .o+`
