@@ -2,7 +2,7 @@
 
 Automated ProtonVPN OpenVPN deployment for Arch Linux with integrated DNS hardening, traffic leak protection, automatic systemd management, and iptables-based killswitch.
 
-[Arch-ProtonVPN Screenshot](proton.png)
+![Arch-ProtonVPN Screenshot](proton.png)
 
 ## Overview
 
