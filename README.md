@@ -2,6 +2,8 @@
 
 Automated ProtonVPN OpenVPN deployment for Arch Linux with integrated DNS hardening, traffic leak protection, automatic systemd management, and iptables-based killswitch.
 
+[Arch-ProtonVPN Screenshot](proton.png)
+
 ## Overview
 
 Arch-ProtonVPN is a Bash-based installer designed to simplify ProtonVPN OpenVPN deployment on Arch Linux systems.
