@@ -20,6 +20,7 @@ The goal is to provide a fully operational ProtonVPN connection with minimal man
 * Creates OpenVPN client directories
 * Imports ProtonVPN configuration files
 * Configures authentication credentials
+* TCP/UDP Auto install
 
 ### OpenVPN Configuration
 
