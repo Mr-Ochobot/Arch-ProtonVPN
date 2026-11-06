@@ -247,15 +247,3 @@ This project is an independent automation utility and is not affiliated with, en
 Users are responsible for reviewing and understanding the generated network and firewall configurations before deployment.
 
 ---
-
-## License
-
-MIT License
-
----
-
-## Author
-
-Mr-Ochobot
-
-GitHub: https://github.com/Mr-Ochobot
